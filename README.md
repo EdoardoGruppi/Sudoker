@@ -20,11 +20,11 @@ python main.py
 
 Below a gif displaying how a sudoku puzzle is generated.
 
-UPDATE gif generation
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/48513387/131258065-d065c82f-563c-4d0c-a915-08001b04cfb9.gif)
 
 Hereafter, the functioning of the backtracking algorithm is depicted.
 
-UPDATE gif functioning
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48513387/131258153-7be05535-b76b-49a0-8445-a65087999ffe.gif)
 
 ## Packages required
 
