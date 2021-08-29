@@ -3,9 +3,9 @@
 
 [Project](https://github.com/EdoardoGruppi/Sudoker) 
 
-This project enables to generate, play as well as automatically solve Sudoku puzzles. It provides a user-friendly Graphic User Interface from which users can select the dimension of the sudoku (4x4, 9x9 or 16x16) along with the difficulty of the game ('Very Easy', 'Easy', 'Medium', 'Difficult', 'Extreme').Additionally, the player can decide also to generate sudoku which do not have a single solution. The main advantage related to this choice resides in a faster generation process that in particular regards the 16x16 sudoku puzzles.
+This project enables to generate, play as well as automatically solve Sudoku puzzles. It provides a user-friendly Graphic User Interface from which users can select the dimension of the sudoku (4x4, 9x9 or 16x16) along with the difficulty of the game ('Very Easy', 'Easy', 'Medium', 'Difficult', 'Extreme'). Additionally, the player can decide also to generate sudoku which do not have a single solution. The main advantage related to this choice resides in a faster generation process that in particular regards the 16x16 sudoku puzzles.
 
-The sudoku grids are created and solved exploiting the same methodology, namely the backtracking algorithm. The code intentionally showcases its functioning to enhance its understanding. During the process that automatically completes the sudoku, the backtracking algorithm is preceeds by a method that fulfills  the empty cells in the grid that accept only a single valid number. 
+The sudoku grids are created and solved exploiting the same methodology, namely the backtracking algorithm. The code intentionally showcases its functioning to enhance its understanding. During the process that automatically completes the sudoku, the backtracking algorithm is preceeds by a method finalised to fill  the empty cells in the grid that accept only a single valid number. 
 
 ## How to start
 
@@ -18,7 +18,11 @@ Once all the necessary packages have been installed you can run the code by typi
 python main.py
 ```
 
+Below a gif displaying how a sudoku puzzle is generated.
+
 UPDATE gif generation
+
+Hereafter, the functioning of the backtracking algorithm is depicted.
 
 UPDATE gif functioning
 
